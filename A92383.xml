@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A relation of the victory obtained by Sr. Thomas Fairfax, Generall of the Parliaments forces, over the enemies forces, neer Harborough, on Saturday, June, 14. 1645. Being a letter brought from the army by the city scout, to the Right Worshipfull William Gibbs, Alderman, and Sheriffe of the city of London.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92383</idno><idno type="EEBO-CITATION">99860911</idno>
+  <idno type="VID">113038</idno>
+  <idno type="EEBO-PROQUEST">2240887720</idno>
+  
+            <idno type="STC">Wing R887</idno>
+            <idno type="STC">Thomason E288_25</idno>
+            <idno type="STC">ESTC R200107</idno>
+            <idno type="PROQUEST">99860911</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99860911e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92383)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113038)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 47:E288[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A relation of the victory obtained by Sr. Thomas Fairfax, Generall of the Parliaments forces, over the enemies forces, neer Harborough, on Saturday, June, 14. 1645. Being a letter brought from the army by the city scout, to the Right Worshipfull William Gibbs, Alderman, and Sheriffe of the city of London.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Cotes.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 16".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Market Harborough (England) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Naseby (England) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113038:1"/>
+            <p>A RELATION Of the Victory obtained by S<seg rend="sup">r</seg>. <hi>Thomas Fairfax,</hi> Generall of the Parliaments Forces, over the Enemies Forces, neer <hi>Har<g ref="char:EOLhyphen"/>borough,</hi> on Saturday, <hi>June,</hi> 14. 1645.</p>
+            <p>Being a Letter brought from the Army by the City Scout, to the Right Worshipfull <hi>William Gibbs,</hi> Alderman, and Sheriffe of the City of <hi>London.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Richard Cotes.</hi> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="report">
+            <pb facs="tcp:113038:2"/>
+            <pb n="1" facs="tcp:113038:2"/>
+            <head>A Relation of the Victory obtained by S<seg rend="sup">r</seg>. <hi>Thomas Fair<g ref="char:EOLhyphen"/>fax,</hi> Generall of the Parlia<g ref="char:EOLhyphen"/>ments Forces, over the Enemies Forces.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat God hath blessed our Army with admi<g ref="char:EOLhyphen"/>rable successe: The bu<g ref="char:EOLhyphen"/>sinesse was thus, the Enemy quartered the Friday night at <hi>Harborough.</hi> Gene<g ref="char:EOLhyphen"/>rall <hi>Fairefax</hi> at <hi>Gilsborough,</hi> within 6 miles of the Enemy. On Saturday morning they drew out about six of the clock with a Party to give us Battail. Generall <hi>Fairfax</hi> being ve<g ref="char:EOLhyphen"/>ry
+<pb n="2" facs="tcp:113038:3"/>glad of the proffer, having long expected it: Whereupon the Ge<g ref="char:EOLhyphen"/>nerall drew off from his Quarters to <hi>Naisby,</hi> two miles on the way to the Enemy, and there put themselves into Battalia. The Ene<g ref="char:EOLhyphen"/>my came on in very good Order to charge us, and had all the points of the wind for them, and their advan<g ref="char:EOLhyphen"/>tage: The Generall met them half the way; our right Wing of Horse was led on by <hi>Crumwell,</hi> the left Wing by Colonell <hi>Ireton,</hi> just then in the Field made Commissary Ge<g ref="char:EOLhyphen"/>nerall by Sir <hi>Thomas Fairfax.</hi>
+            </p>
+            <p>That about eleven of the clock on Saturday both Armies were in<g ref="char:EOLhyphen"/>gaged: little use was made of Ord<g ref="char:EOLhyphen"/>nance on either side: being so soon brought to an ingagement: our
+<pb n="3" facs="tcp:113038:3"/>right Wing of Horse being Com<g ref="char:EOLhyphen"/>manded by Lievtenant Generall <hi>Crumwell,</hi> carryed all the Field be<g ref="char:EOLhyphen"/>fore him; just as they did at <hi>Mar<g ref="char:EOLhyphen"/>ston-Moore.</hi> That our left Wing being Commanded by <hi>Ireton</hi> was a little shattered and gave ground: he carryed himself well, and is ex<g ref="char:EOLhyphen"/>tremely wounded.</p>
+            <p>That the Enemy once was almost Master of our Traine; but within half an houre Gen. <hi>Fairfax's</hi> Forces was clearly Victors, and charged the Enemy both Horse and Foot through and through; and beat them quite out of the Field before them.</p>
+            <p>The Generall hath so broken the Enemies Foot, that hee could not heare or see that they brought off a hundred.</p>
+            <pb n="4" facs="tcp:113038:4"/>
+            <p>Their Horse after their first rout rallyed again; Generall <hi>Faire<g ref="char:EOLhyphen"/>fax</hi> advanced towards them, and charged them and routed them; and is now upon the chase, knocking them down, and taking them Priso<g ref="char:EOLhyphen"/>ners, for at least five miles in the way towards <hi>Leicester;</hi> the Messenger was an eye witnesse of it.</p>
+            <p>That the Enemy hath lost most of all their Carriages and Ordnance; hee saw there two great Demi-Can<g ref="char:EOLhyphen"/>non, and divers other great Pieces before hee came away: the particu<g ref="char:EOLhyphen"/>lars are not yet known.</p>
+            <p>The valour that Sir <hi>Thomas Fair<g ref="char:EOLhyphen"/>fax</hi> manifested just upon the charge, was a great incouragement to the Souldiers: his Spirit was so raised, that it was admired by all men. Ma<g ref="char:EOLhyphen"/>jor
+<pb n="5" facs="tcp:113038:4"/>Generall <hi>Skippon</hi> carryed him<g ref="char:EOLhyphen"/>self most gallantly, and is wounded.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
